@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'PicoBlackAl';
+	src: url('../fonts/PicoBlackAl.eot');
+	src: url('../fonts/PicoBlackAl.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PicoBlackAl.woff') format('woff'), 
+	url('../fonts/PicoBlackAl.ttf') format('truetype'),
+	url('../fonts/PicoBlackAl.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
